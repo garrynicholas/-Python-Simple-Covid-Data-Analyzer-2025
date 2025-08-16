@@ -50,6 +50,10 @@ pip install requests, pandas, matplotlib, colorama, tabulate
 
 ![Sample Output](screenshots/Screenshot_4.png)
 
+✅ Chart image (Matplotlib)
+
+![Sample Output](covid_chart.png)
+
 🙌 Credits
 
 API: disease.sh – Open Disease Data for the World
