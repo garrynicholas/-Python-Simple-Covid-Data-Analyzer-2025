@@ -1,4 +1,4 @@
-🦠 COVID-19 Data Analyzer
+🦠 COVID-19 Data Analyzer (Indonesian Languages)
 
 A simple yet powerful Python CLI app that fetches, analyzes, and visualizes global COVID-19 data using the disease.sh API.
 
@@ -32,11 +32,23 @@ pip install requests, pandas, matplotlib, colorama, tabulate
 - covid_env\Scripts\activate
 - python main.py
 
-📷 Screenshot
+📷 Screenshots
 
-✅ Sample Output (with table + chart)
+✅ Main Menu
 
-*(Optional: add a screenshot here – e.g., ![Sample Output](screenshot.png))
+![Sample Output](screenshots/Screenshot_1.png)
+
+✅ Menu 1: Online Analyzer (whenever your connections trouble, it will throw the Offline system [Menu 2 already])
+
+![Sample Output](screenshots/Screenshot_2.png)
+
+✅ Menu 2: Offline Analyzer
+
+![Sample Output](screenshots/Screenshot_5.png)
+
+✅ Image export (Matplotlib)
+
+![Sample Output](screenshots/Screenshot_4.png)
 
 🙌 Credits
 
